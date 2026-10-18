@@ -10,3 +10,7 @@ technical troubleshooting, customer onboarding, basic API guidance, subscription
 management and cross-functional collaboration. Supported more than 18,700
 customers through email and live chat while consistently handling one of the highest
 monthly support volumes within the team.</p>
+
+<ul>
+  <li> I am actively looking for a position where I can support users on how to use a certain application </b> </li>
+</ul>
